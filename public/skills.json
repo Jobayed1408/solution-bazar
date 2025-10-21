@@ -1,0 +1,75 @@
+[
+    {
+      "skillId": 1,
+      "skillName": "Beginner Guitar Lessons",
+      "providerName": "Alex Martin",
+      "providerEmail": "alex@skillswap.com",
+      "price": 20,
+      "rating": 4.8,
+      "slotsAvailable": 3,
+      "description": "Acoustic guitar classes for complete beginners covering chords, strumming, and basic songs.",
+      "image": "https://i.postimg.cc/example1.png",
+      "category": "Music"
+    },
+    {
+      "skillId": 2,
+      "skillName": "Spoken English Practice",
+      "providerName": "Sara Hossain",
+      "providerEmail": "sara@skillswap.com",
+      "price": 10,
+      "rating": 4.6,
+      "slotsAvailable": 5,
+      "description": "Conversational English sessions focused on fluency and pronunciation.",
+      "image": "https://i.postimg.cc/example2.png",
+      "category": "Language"
+    },
+    {
+      "skillId": 3,
+      "skillName": "Intro to JavaScript",
+      "providerName": "Rafi Ahmed",
+      "providerEmail": "rafi@skillswap.com",
+      "price": 25,
+      "rating": 4.9,
+      "slotsAvailable": 4,
+      "description": "Hands-on JavaScript fundamentals for beginners: DOM, events and basics of ES6.",
+      "image": "https://i.postimg.cc/example3.png",
+      "category": "Programming"
+    },
+    {
+      "skillId": 4,
+      "skillName": "Yoga for Beginners",
+      "providerName": "Maya Roy",
+      "providerEmail": "maya@skillswap.com",
+      "price": 15,
+      "rating": 4.7,
+      "slotsAvailable": 6,
+      "description": "Gentle yoga sessions for flexibility and stress relief. Bring a mat.",
+      "image": "https://i.postimg.cc/example4.png",
+      "category": "Fitness"
+    },
+    {
+      "skillId": 5,
+      "skillName": "Basic Photography",
+      "providerName": "Kamrul Hasan",
+      "providerEmail": "kamrul@skillswap.com",
+      "price": 30,
+      "rating": 4.5,
+      "slotsAvailable": 2,
+      "description": "Learn composition, exposure, and phone-camera techniques for better photos.",
+      "image": "https://i.postimg.cc/example5.png",
+      "category": "Art"
+    },
+    {
+      "skillId": 6,
+      "skillName": "Bangla Calligraphy",
+      "providerName": "Nitu Chakma",
+      "providerEmail": "nitu@skillswap.com",
+      "price": 12,
+      "rating": 4.4,
+      "slotsAvailable": 8,
+      "description": "Traditional Bangla script calligraphy basics and practice sheets included.",
+      "image": "https://i.postimg.cc/example6.png",
+      "category": "Crafts"
+    }
+  ]
+  
