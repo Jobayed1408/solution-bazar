@@ -1,5 +1,5 @@
 # 🧠 Solution-HUB – Online Learning Platform  
-A full-stack MERN online learning platform where users can explore, create, and enroll in courses.  
+An online learning platform where users can explore, create, and show  courses.  
 Built with **React + Vite**, **Node.js + Express**, **MongoDB**, and **Firebase Authentication**.
 
 ---
