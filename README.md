@@ -57,6 +57,50 @@ src/
 
 ---
 
+## Dependencies
+## 📦 Frontend Dependencies
+
+### **Main Dependencies**
+- react
+- react-dom
+- react-router-dom
+- firebase
+- axios
+
+### **UI & Styling**
+- tailwindcss
+- daisyui
+- postcss
+- autoprefixer
+
+### **Dev Dependencies**
+- vite
+- eslint
+- eslint-plugin-react
+- @vitejs/plugin-react
+- 
+### **Install FrontEnd Dependencies**
+- npm install react react-dom react-router-dom firebase axios
+- npm install -D tailwindcss daisyui postcss autoprefixer vite eslint @vitejs/plugin-react eslint-plugin-react
+
+
+- ## 📦 Backend Dependencies
+
+### **Main Dependencies**
+- express
+- cors
+- dotenv
+- mongoose
+- firebase-admin
+
+### **Utilities**
+- nodemon (dev)
+
+### **Install BackEnd Dependencies**
+- npm install express cors dotenv mongoose firebase-admin
+- npm install -D nodemon
+
+
 ## ▶️ Run the Project Locally  
 
 ### **Frontend**
